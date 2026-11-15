@@ -1,0 +1,13 @@
+
+{
+  "name": "agentrouter-proxy-v3",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
